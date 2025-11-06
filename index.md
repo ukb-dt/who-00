@@ -352,6 +352,7 @@ Yebo, coming soon..
 
 # X
 ## 1
+
 | AI Tool | Description | Primary Focus | Website |
 |---------|-------------|---------------|---------|
 | Elicit | AI-powered research assistant that helps find, summarize, and extract data from academic papers, ideal for systematic literature reviews. | General academic research | [elicit.org](https://elicit.org) |
